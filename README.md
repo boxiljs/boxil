@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="boxil" />
 </h1>
 
 ## Hey! 👋
@@ -21,7 +21,6 @@ I'm boxil, a 17 years old web developer from Australia!
 </div>
 
 &nbsp;<div align="center">
-  [![Discord]([https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue](https://img.shields.io/badge/linked-boxil-369?style=flat-square&logo=discord&logoColor=white&color=blue))]([[https://www.linkedin.com/in/andrew-novac](https://discord.com/users/1193737185015365713](https://discord.com/users/1193737185015365713)))
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/boxiljs)
 </div>
 
