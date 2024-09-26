@@ -17,9 +17,5 @@ I'm boxil, a 17 years old web developer from Australia!
 - [@._boxil](./) on Discord
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p?si=cdb65c84784d4f3d)
-</div>
-
-&nbsp;<div align="center">
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/boxiljs)
 </div>
