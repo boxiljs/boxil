@@ -23,8 +23,8 @@
 ### Contact
 - Discord: [@._boxil](./)
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/boxiljs">
-    <img src="https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=GitHub%20Visits&color=336699&logoColor=white&style=flat-square" alt="GitHub Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=boxiljs&logo=github&label=Profile%20Views&color=blueviolet&logoColor=white&style=for-the-badge" alt="GitHub Profile Views" />
   </a>
-</div>
+</p>
